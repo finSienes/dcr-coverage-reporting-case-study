@@ -36,3 +36,41 @@ The project was developed with AI-assisted coding tools, with my involvement in 
 ## Portfolio Note
 
 This repository is a documentation-only case study. The application source code and operational database are not publicly available. Any future demonstrations will use fictional data and a separate environment.
+
+
+## Application Screenshots
+
+### Team Performance
+Automated coverage calculations and representative performance monitoring.
+
+![Team Performance](team-performance.png)
+
+### Daily Coverage Report Entry
+Structured daily call reporting for doctors, drugstores, MDCs, and incidental activities.
+
+![DCR Entry](dcr-entry.png)
+
+### Executive Analytics
+Coverage statistics and management reporting.
+
+![Executive Analytics](executive-analytics.png)
+
+### WhatsApp Import
+Import and analyze WhatsApp chat exports before validating coverage activities.
+
+![WhatsApp Import](whatsapp-import-overview.png)
+
+### WhatsApp Validation
+Review extracted activities and match them against masterlist records.
+
+![WhatsApp Validation](whatsapp-validation.png)
+
+### Multiple Target Recognition
+Review multiple coverage targets identified within one WhatsApp message.
+
+![Multiple Target Recognition](whatsapp-multiple-targets.png)
+
+### Account Administration
+User account and role management interface.
+
+![Admin Console](admin-console.png)
